@@ -1,0 +1,102 @@
+.im4wp-form input[name^="_im4wp_honey"] { display: none !important; }
+
+/* İYS Panel WP Form - Default Form Styles */
+.im4wp-form-basic {
+	margin: 1em 0;
+}
+.im4wp-form-basic label,
+.im4wp-form-basic input {
+	width: auto;
+	display: block;
+	box-sizing: border-box;
+	cursor: auto;
+	height: auto;
+	vertical-align: baseline;
+	line-height: normal;
+}
+.im4wp-form-basic label:after,
+.im4wp-form-basic input:after {
+	content:"";
+	display:table;
+	clear:both;
+}
+.im4wp-form-basic label {
+	font-weight: bold;
+	margin-bottom: 6px;
+	display: block;
+}
+
+/* Form Elements */
+.im4wp-form-basic input.placeholdersjs {
+	color: #aaa !important;
+}
+.im4wp-form-basic input[type="text"],
+.im4wp-form-basic input[type="email"],
+.im4wp-form-basic input[type="tel"],
+.im4wp-form-basic input[type="url"],
+.im4wp-form-basic input[type="date"],
+.im4wp-form-basic textarea,
+.im4wp-form-basic select {
+	min-height: 32px;
+	width: 100%;
+	max-width: 480px;
+}
+.im4wp-form-basic input[type="number"] {
+	min-width: 40px;
+}
+.im4wp-form-basic input[type="checkbox"],
+.im4wp-form-basic input[type="radio"] {
+	position: relative;
+	margin: 0 6px 0 0;
+	padding: 0;
+	height: 13px;
+	width: 13px;
+	display: inline-block;
+	border: 0;
+}
+.im4wp-form-basic input[type="checkbox"] {
+	-webkit-appearance: checkbox;
+	-moz-appearance: checkbox;
+	appearance: checkbox;
+}
+.im4wp-form-basic input[type="radio"] {
+	-webkit-appearance: radio;
+	-moz-appearance: radio;
+	appearance: radio;
+}
+.im4wp-form-basic input[type="submit"],
+.im4wp-form-basic button,
+.im4wp-form-basic input[type="button"] {
+	cursor: pointer;
+	display: inline-block;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+}
+
+/* Remove font-weight bold from nested elements */
+.im4wp-form-basic label > span,
+.im4wp-form-basic li > label {
+	font-weight: normal;
+}
+
+/* Alert */
+.im4wp-alert{
+	color: #c09853;
+	clear: both;
+}
+.im4wp-success {
+	color: #468847;
+}
+.im4wp-notice {
+	color: #3a87ad;
+}
+.im4wp-error {
+	color: #CD5C5C;
+}
+
+/* Right-To-Left specific styles */
+.rtl .im4wp-form-basic input[type="checkbox"],
+.rtl .im4wp-form-basic input[type="radio"] {
+	margin: 0 0 0 6px;
+}

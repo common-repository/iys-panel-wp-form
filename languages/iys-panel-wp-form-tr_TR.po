@@ -1,0 +1,1288 @@
+# Copyright (C) 2021 iys-panel-wp-form
+# This file is distributed under the same license as the iys-panel-wp-form package.
+msgid ""
+msgstr ""
+"Project-Id-Version: iys-panel-wp-form\n"
+"POT-Creation-Date: 2021-06-16 14:35+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Hermes Iletisim <hizmet@hermesiletisim.net>\n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: config/default-form-content.php:3 includes/forms/class-admin.php:82
+msgid "Email address"
+msgstr "Eposta Adresi"
+
+#: config/default-form-content.php:4
+msgid "Your email address"
+msgstr "E-posta adresiniz"
+
+#: config/default-form-content.php:5
+msgid "Sign up"
+msgstr "Kayıt ol"
+
+#: config/default-form-messages.php:5
+msgid ""
+"Thank you, your sign-up request was successful! Please check your email "
+"inbox to confirm."
+msgstr ""
+"Teşekkürler, kayıt başvurunuz başarıyla tamamlandı! Lütfen e-posta gelen "
+"kutunuzu kontrol edin."
+
+#: config/default-form-messages.php:9
+msgid "Thank you, your records have been updated!"
+msgstr "Teşekkürler, kayıtlarınız güncellendi!"
+
+#: config/default-form-messages.php:13
+msgid "You were successfully unsubscribed."
+msgstr "Listeden başarıyla çıktınız."
+
+#: config/default-form-messages.php:17
+msgid "Given email address is not subscribed."
+msgstr "Verilen e-posta adresi listeye eklenmemiştir."
+
+#: config/default-form-messages.php:21
+msgid "Oops. Something went wrong. Please try again later."
+msgstr "Bir şeyler yanlış gitti. Lütfen daha sonra tekrar deneyin."
+
+#: config/default-form-messages.php:25
+msgid "Please provide a valid email address."
+msgstr "Lütfen geçerli bir e-posta adresi girin."
+
+#: config/default-form-messages.php:29
+msgid "Given email address is already subscribed, thank you!"
+msgstr "Girilen iletişim bilgileri adresi zaten kayıtlı, teşekkürler!"
+
+#: config/default-form-messages.php:33
+msgid "Please fill in the required fields."
+msgstr "Lütfen gerekli alanları doldurun."
+
+#: config/default-form-messages.php:37
+msgid "Please select at least one list."
+msgstr "Lütfen en az bir liste seçin."
+
+#: config/default-form-messages.php:41
+msgid "Code is wrong!"
+msgstr "Hatalı kod."
+
+#: config/default-form-messages.php:45
+msgid "Thank you, your sign-up request was successful!"
+msgstr ""
+"Teşekkürler, kayıt başvurunuz başarıyla\n"
+"tamamlandı!"
+
+#: config/default-form-messages.php:49
+msgid "Code can not be renewed!"
+msgstr "Kod yenilenemedi!"
+
+#: config/default-form-messages.php:53
+msgid "Code is renewed!"
+msgstr "Kod yenilendi."
+
+#: includes/admin/class-admin-ajax.php:79
+msgid "First Name"
+msgstr "Ad"
+
+#: includes/admin/class-admin-ajax.php:80
+msgid "Last Name"
+msgstr "Soyad"
+
+#: includes/admin/class-admin-ajax.php:81
+msgid "National ID Number"
+msgstr "TC Kimlik No"
+
+#: includes/admin/class-admin-ajax.php:82
+#: includes/views/general-settings.php:116
+msgid "GSM"
+msgstr "GSM"
+
+#: includes/admin/class-admin-ajax.php:83
+msgid "Landline"
+msgstr "Sabit Telefon"
+
+#: includes/admin/class-admin-ajax.php:84
+msgid "Fax"
+msgstr "Faks"
+
+#: includes/admin/class-admin-ajax.php:85
+msgid "Birthday"
+msgstr "Doğum Tarihi"
+
+#: includes/admin/class-admin-texts.php:49 includes/forms/views/edit-form.php:6
+#: includes/forms/views/tabs/form-settings.php:1
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: includes/admin/class-admin.php:209
+msgid "Success! The cached configuration for your groups has been renewed."
+msgstr "Başarılı. Eski grup listesi yenilendi."
+
+#: includes/admin/class-admin.php:222
+msgid "Success! The cached configuration for your brands has been renewed."
+msgstr "Başarılı. Eski marka listesi yenilendi."
+
+#: includes/admin/class-admin.php:235
+msgid ""
+"Success! The cached configuration for your originators has been renewed."
+msgstr "Başarılı. Eski başlık listesi yenilendi."
+
+#: includes/admin/class-admin.php:338
+msgid "The given value does not look like a valid API key."
+msgstr "Girilen değer  bir API anahtarına benzermiyor."
+
+#: includes/admin/class-admin.php:339 includes/views/parts/lists-overview.php:4
+#: includes/views/parts/lists-overview.php:5
+msgid "Renew Form Connections"
+msgstr "Form Bağlantılarını Yenile"
+
+#: includes/admin/class-admin.php:340
+msgid "Fetching Groups"
+msgstr "Gruplar Alınıyor"
+
+#: includes/admin/class-admin.php:341
+msgid "Done! Groups renewed."
+msgstr "Tamamlandı. Form Bağlantıları Yenilendi."
+
+#: includes/admin/class-admin.php:342
+msgid "Failed to renew your groups. An error occured."
+msgstr "Gruplarınızı yenilerken bir hata oluştu."
+
+#: includes/admin/class-admin.php:343
+msgid "Renew Brands"
+msgstr "Markaları Yenile"
+
+#: includes/admin/class-admin.php:344
+msgid "Fetching Brands"
+msgstr "Markalar Alınıyor"
+
+#: includes/admin/class-admin.php:345
+msgid "Done! Brands renewed."
+msgstr "Tamamlandı! Markalar Yenilendi."
+
+#: includes/admin/class-admin.php:346
+msgid "Renew Originators"
+msgstr "Başlıkları Yenile"
+
+#: includes/admin/class-admin.php:347
+msgid "Fetching Originators"
+msgstr "Başlıklar Alınıyor"
+
+#: includes/admin/class-admin.php:348
+msgid "Done! Originators renewed."
+msgstr "Tamamlandı! Başlıklar Yenilendi."
+
+#: includes/admin/class-admin.php:376
+msgid "İYS Panel WP Form API Settings"
+msgstr "İYS Panel WP Form API Ayarları"
+
+#: includes/admin/class-admin.php:377 includes/views/general-settings.php:18
+msgid "Connections"
+msgstr "Bağlantılar"
+
+#: includes/admin/class-admin.php:464 includes/list-forms/class-admin.php:75
+msgid "Error connecting to İYS Panel:"
+msgstr ""
+
+#: includes/admin/class-admin.php:467 includes/list-forms/class-admin.php:78
+#, php-format
+msgid ""
+"Looks like your server is blocked by İYS Panel's firewall. Please contact "
+"İYS Panel support and include the following reference number: %s"
+msgstr ""
+
+#: includes/admin/class-admin.php:470 includes/list-forms/class-admin.php:81
+msgid "Here's some info on solving common connectivity issues."
+msgstr ""
+
+#: includes/admin/class-admin.php:475 includes/list-forms/class-admin.php:86
+msgid "İYS Panel returned the following error:"
+msgstr ""
+
+#: includes/admin/class-admin.php:514
+msgid "Log successfully emptied."
+msgstr ""
+
+#: includes/admin/class-admin.php:544
+#, php-format
+msgid ""
+"To get started with İYS Panel WP Form, please <a href=\"%s\">enter your İYS "
+"Panel API key on the settings page of the plugin</a>."
+msgstr ""
+
+#: includes/admin/class-usage-tracking.php:52
+msgid "Once a month"
+msgstr ""
+
+#: includes/class-dynamic-content-tags.php:27
+msgid "Data from a cookie."
+msgstr "Çerezden gelen veri."
+
+#: includes/class-dynamic-content-tags.php:33
+msgid "The email address of the current visitor (if known)."
+msgstr "Geçerli ziyaretçinin email adresi (biliyorsanız)."
+
+#: includes/class-dynamic-content-tags.php:38
+msgid "The URL of the page."
+msgstr "Sayfanın URL bağlantısı."
+
+#: includes/class-dynamic-content-tags.php:43
+msgid "The path of the page."
+msgstr "Sayfanın yolu."
+
+#: includes/class-dynamic-content-tags.php:48
+#, php-format
+msgid "The current date. Example: %s."
+msgstr "Geçerli tarih. Örnek: %s."
+
+#: includes/class-dynamic-content-tags.php:53
+#, php-format
+msgid "The current time. Example: %s."
+msgstr "Geçerli saat. Örnek: %s."
+
+#: includes/class-dynamic-content-tags.php:58
+#, php-format
+msgid "The site's language. Example: %s."
+msgstr "Sitenin dili. Örnek: %s."
+
+#: includes/class-dynamic-content-tags.php:63
+#, php-format
+msgid "The visitor's IP address. Example: %s."
+msgstr "Ziyaretçinin IP adresi. Örnek %s."
+
+#: includes/class-dynamic-content-tags.php:68
+msgid "The property of the currently logged-in user."
+msgstr "Şu anda oturum açmış kullanıcının mülküdür."
+
+#: includes/class-dynamic-content-tags.php:74
+msgid "Property of the current page or post."
+msgstr "Geçerli sayfa yada yazı özellikleri."
+
+#: includes/forms/class-admin.php:70
+msgid "Add to form"
+msgstr "Forma ekle"
+
+#: includes/forms/class-admin.php:71
+msgid "I have read and agree to the terms & conditions"
+msgstr ""
+
+#: includes/forms/class-admin.php:72
+msgid "Agree to terms"
+msgstr ""
+
+#: includes/forms/class-admin.php:73
+msgid "Link to your terms & conditions page"
+msgstr ""
+
+#: includes/forms/class-admin.php:74
+msgid "City"
+msgstr "Şehir"
+
+#: includes/forms/class-admin.php:75
+msgid "Checkboxes"
+msgstr "Onay kutuları"
+
+#: includes/forms/class-admin.php:76
+msgid "Choices"
+msgstr "Seçimler"
+
+#: includes/forms/class-admin.php:77
+msgid "Choice type"
+msgstr "Seçim tipi"
+
+#: includes/forms/class-admin.php:78
+msgid "Select the fields below to put on your form."
+msgstr "Aşağıdaki listeden formda yer alacak alanları seçin."
+
+#: includes/forms/class-admin.php:79
+msgid "Close"
+msgstr "Kapat"
+
+#: includes/forms/class-admin.php:80
+msgid "Country"
+msgstr "Ülke"
+
+#: includes/forms/class-admin.php:81
+msgid "Dropdown"
+msgstr "Açılır menü"
+
+#: includes/forms/class-admin.php:83
+msgid "Field type"
+msgstr "Alan türü"
+
+#: includes/forms/class-admin.php:84
+msgid "Field label"
+msgstr "Seçili Alanın Adı"
+
+#: includes/forms/class-admin.php:85
+msgid "Form action"
+msgstr "Form eylemi"
+
+#: includes/forms/class-admin.php:86
+msgid ""
+"This field will allow your visitors to choose whether they would like to "
+"subscribe or unsubscribe"
+msgstr ""
+"Bu alan ziyaretçilerinize abone olmak isteyip istemediklerini seçmelerini "
+"sağlar"
+
+#: includes/forms/class-admin.php:87
+msgid "Form fields"
+msgstr "Form alanları"
+
+#: includes/forms/class-admin.php:88
+msgid "This field is marked as required in İYS Panel."
+msgstr "Bu alan İYS Panel'de zorunlu alan olarak işaretlendi."
+
+#: includes/forms/class-admin.php:89
+msgid "Initial value"
+msgstr "İlk değer"
+
+#: includes/forms/class-admin.php:90
+msgid "Interest categories"
+msgstr "İlgili kategoriler"
+
+#: includes/forms/class-admin.php:91
+msgid "Is this field required?"
+msgstr "Zorunlu Alan?"
+
+#: includes/forms/class-admin.php:92
+msgid "List choice"
+msgstr "Liste seçimi"
+
+#: includes/forms/class-admin.php:93
+msgid "This field will allow your visitors to choose a list to subscribe to."
+msgstr ""
+"Bu alan ziyaretçilerinizin hangi listeye abone olacaklarını seçmelerini "
+"sağlar."
+
+#: includes/forms/class-admin.php:94
+msgid "List fields"
+msgstr "Alanları listele"
+
+#: includes/forms/class-admin.php:95
+msgid "Min"
+msgstr "En az"
+
+#: includes/forms/class-admin.php:96
+msgid "Max"
+msgstr "En yüksek"
+
+#: includes/forms/class-admin.php:97
+msgid ""
+"No available fields. Did you select a İYS Panel list in the form settings?"
+msgstr ""
+
+#: includes/forms/class-admin.php:98
+msgid "Optional"
+msgstr "İsteğe bağlı"
+
+#: includes/forms/class-admin.php:99
+msgid "Placeholder"
+msgstr "Yer Tutucu"
+
+#: includes/forms/class-admin.php:100
+msgid "Text to show when field has no value."
+msgstr "Alanda herhangi bir değer olmadığında gösterilecek metin."
+
+#: includes/forms/class-admin.php:101
+msgid ""
+"Date formats should be in (DD.MM.YYYY) (DD/MM/YYYY) or (DD-MM-YYYY) format. "
+"You may clarify them on the placeholder."
+msgstr ""
+"Tarih formatları (GG.AA.YYYY) (GG/AA/YYYY) veya (GG-AA-YYYY) formatında "
+"olmalıdır bunu yer tutucuda belirtebilirsiniz."
+
+#: includes/forms/class-admin.php:102
+msgid "Preselect"
+msgstr "Önseçim"
+
+#: includes/forms/class-admin.php:103
+msgid "Remove"
+msgstr "Kaldır"
+
+#: includes/forms/class-admin.php:104
+msgid "Radio buttons"
+msgstr "Radyo düğmeleri"
+
+#: includes/forms/class-admin.php:105
+msgid "Street Address"
+msgstr "Adres"
+
+#: includes/forms/class-admin.php:106
+msgid "State"
+msgstr "Eyalet"
+
+#: includes/forms/class-admin.php:107
+msgid "Subscribe"
+msgstr "Abone ol"
+
+#: includes/forms/class-admin.php:108
+msgid "Submit button"
+msgstr "Gönder düğmesi"
+
+#: includes/forms/class-admin.php:109
+msgid "Wrap in paragraph tags?"
+msgstr "Paragrafı etiketler ile sarmala"
+
+#: includes/forms/class-admin.php:110
+msgid "Value"
+msgstr "Değer"
+
+#: includes/forms/class-admin.php:111
+msgid "Text to prefill this field with."
+msgstr "Bu alandaki ön doldurma için kullanılacak metin."
+
+#: includes/forms/class-admin.php:112
+msgid "ZIP"
+msgstr "Posta Kodu"
+
+#: includes/forms/class-admin.php:124 includes/forms/class-admin.php:125
+msgid "Create Form"
+msgstr "Form Oluştur"
+
+#: includes/forms/class-admin.php:162 includes/forms/class-admin.php:338
+msgid "Form saved."
+msgstr "Form kaydedildi."
+
+#: includes/forms/class-admin.php:427
+msgid "Form not found."
+msgstr "Form bulunamadı."
+
+#: includes/forms/class-admin.php:429
+msgid "Go back"
+msgstr "Geri dön"
+
+#: includes/forms/class-admin.php:493 includes/forms/class-widget.php:31
+msgid "İYS Panel Sign-Up Form"
+msgstr "İYS Panel Kayıt Formu"
+
+#: includes/forms/class-admin.php:497
+msgid "Select the form to show"
+msgstr "Gösterilecek formu seçin"
+
+#: includes/forms/class-form-amp.php:33
+msgid "Submitting..."
+msgstr "Kaydediliyor..."
+
+#: includes/forms/class-form-element.php:77
+msgid "Confirm your submission"
+msgstr "Kaydınızı onaylayın"
+
+#: includes/forms/class-form-element.php:78
+msgid ""
+"You will receive an SMS with the confirmation code to the GSM number you "
+"provided in the form. Enter the confirmation code to the field below in "
+"order to verify your submission."
+msgstr ""
+"Form gönderiminizi onaylamak için girmiş olduğunuz GSM numarasına gelen "
+"SMS'te yer alan kodu aşağıdaki alana girip onaylayınız."
+
+#: includes/forms/class-form-element.php:82
+msgid "Enter"
+msgstr "Tamam"
+
+#: includes/forms/class-form-element.php:83
+msgid "Resend the code"
+msgstr "Kodu tekrar gönder"
+
+#: includes/forms/class-form-element.php:99
+msgid "Leave this field empty if you're human:"
+msgstr ""
+
+#: includes/forms/class-form-manager.php:151
+msgid "Resource does not exist."
+msgstr ""
+
+#: includes/forms/class-form-tags.php:34
+msgid "Replaced with the form response (error or success messages)."
+msgstr "Form yanıtı ile değiştirildi (hata yada başarılı mesajı)."
+
+#: includes/forms/class-form-tags.php:39
+msgid "Data from the URL or a submitted form."
+msgstr "URL veya gönderilen bir formda ki veriler."
+
+#: includes/forms/class-form-tags.php:45
+msgid "Replaced with the number of subscribers on the selected list(s)"
+msgstr "Seçili liste(ler) içerisindeki abonelerin sayısı değiştirildi"
+
+#: includes/forms/class-form.php:26 includes/list-forms/class-list.php:26
+#, php-format
+msgid "There is no form with ID %d, perhaps it was deleted?"
+msgstr ""
+
+#: includes/forms/class-google-recaptcha.php:167
+msgid "Enable Google reCaptcha"
+msgstr ""
+
+#: includes/forms/class-google-recaptcha.php:169
+#: includes/forms/views/tabs/form-settings.php:38
+#: includes/views/other-settings.php:21
+msgid "Yes"
+msgstr "Evet"
+
+#: includes/forms/class-google-recaptcha.php:171
+#: includes/forms/views/tabs/form-settings.php:42
+#: includes/views/other-settings.php:25
+msgid "No"
+msgstr "Hayır"
+
+#: includes/forms/class-google-recaptcha.php:173
+msgid ""
+"Select \"yes\" to enable Google reCAPTCHA spam protection for this form."
+msgstr ""
+
+#: includes/forms/class-google-recaptcha.php:184
+msgid "Google reCAPTCHA Site Key"
+msgstr ""
+
+#: includes/forms/class-google-recaptcha.php:188
+#, php-format
+msgid ""
+"Enter your Google reCAPTCHA keys here. You can <a href=\"%1$s\">retrieve "
+"your keys in the Google reCAPTCHA admin console</a> or read our help article "
+"on <a href=\"%2$s\">how to configure Google reCAPTCHA</a>."
+msgstr ""
+
+#: includes/forms/class-google-recaptcha.php:199
+msgid "Google reCAPTCHA Secret Key"
+msgstr ""
+
+#: includes/forms/class-widget.php:27
+msgid "Newsletter"
+msgstr ""
+
+#: includes/forms/class-widget.php:33
+msgid "Displays your İYS Panel WP Form sign-up form"
+msgstr ""
+
+#: includes/forms/class-widget.php:79
+msgid "Title:"
+msgstr "Başlık:"
+
+#: includes/forms/class-widget.php:96
+#, php-format
+msgid ""
+"You can edit your sign-up form in the <a href=\"%s\">İYS Panel WP Form form "
+"settings</a>."
+msgstr ""
+
+#: includes/forms/views/add-form.php:10 includes/forms/views/add-form.php:69
+msgid "Add new form"
+msgstr "Yeni form ekle"
+
+#: includes/forms/views/add-form.php:26
+msgid "What is the name of this form?"
+msgstr "Form ismi nedir?"
+
+#: includes/forms/views/add-form.php:29
+msgid "Enter your form title.."
+msgstr "Form başlığını giriniz.."
+
+#: includes/forms/views/add-form.php:36
+#: includes/forms/views/tabs/form-settings.php:94
+msgid "Associated İletişim Makinesi Group:"
+msgstr "İlgili İletişim Makinesi Grubu:"
+
+#: includes/forms/views/add-form.php:61
+#, php-format
+msgid "No lists found. Did you <a href=\"%s\">connect with İYS Panel</a>?"
+msgstr "Grup bulunamadı. <a href=\"%s\">İYS Panel ile bağlı mısınız</a>?"
+
+#: includes/forms/views/edit-form.php:4
+#: includes/forms/views/tabs/form-fields.php:9
+msgid "Form Layout"
+msgstr "Form Yapısı"
+
+#: includes/forms/views/edit-form.php:5
+msgid "Messages"
+msgstr "Uyarılar"
+
+#: includes/forms/views/edit-form.php:7
+msgid "Appearance"
+msgstr "Görünüm"
+
+#: includes/forms/views/edit-form.php:22 includes/views/general-settings.php:7
+#: includes/views/list-forms.php:7 includes/views/other-settings.php:58
+msgid "You are here: "
+msgstr "Buradasınız: "
+
+#: includes/forms/views/edit-form.php:24 includes/list-forms/class-admin.php:49
+#: includes/list-forms/class-admin.php:50 includes/views/list-forms.php:18
+msgid "Forms"
+msgstr "Formlar"
+
+#: includes/forms/views/edit-form.php:26
+msgid "Form"
+msgstr "Form"
+
+#: includes/forms/views/edit-form.php:36
+msgid "Form Information"
+msgstr "Form Bilgileri"
+
+#: includes/forms/views/edit-form.php:47
+msgid ""
+"Enter the name and the description of your form. Form name will be visible "
+"to visitors on the webpage. Form description is for your use only, in order "
+"to take notes and such."
+msgstr ""
+"Formunuzun adını ve tanımını girin. Form adı web sayfasında gözükecektir. "
+"Form tanımı ise sizin form ile ilgili aldığınız notlardır, ziyaretçiler "
+"görmeyecektir."
+
+#: includes/forms/views/edit-form.php:61
+msgid "Form Name:"
+msgstr "Form İsmi:"
+
+#: includes/forms/views/edit-form.php:65
+msgid "Enter the title of your sign-up form"
+msgstr "Formun başlığını girin"
+
+#: includes/forms/views/edit-form.php:70
+msgid "Form Description:"
+msgstr "Form Açıklaması:"
+
+#: includes/forms/views/edit-form.php:80
+#: includes/forms/views/tabs/form-fields.php:35
+#, php-format
+msgid ""
+"Use the shortcode %s to display this form inside a post, page or text widget."
+msgstr ""
+"Bu formu bir yazının, sayfanın ya da metin aracının içerisinde görüntülemek "
+"için %s kısa kodunu kullanın."
+
+#: includes/forms/views/parts/dynamic-content-tags.php:6
+msgid "Add dynamic form variable"
+msgstr "Dinamik form değişkeni ekle"
+
+#: includes/forms/views/parts/dynamic-content-tags.php:8
+#, php-format
+msgid ""
+"The following list of variables can be used to <a href=\"%s\">add some "
+"dynamic content to your form or success and error messages</a>."
+msgstr ""
+"Aşağıdaki değişken listesi <a href=\"%s\">form içerisine dinamik içerik ,"
+"başarılı yada hata mesajları eklemek</a> için kullanılabilir."
+
+#: includes/forms/views/parts/dynamic-content-tags.php:8
+msgid "This allows you to personalise your form or response messages."
+msgstr "Bu formunuzu veya cevap mesajınızı kişiselleştirmenize izin verir."
+
+#: includes/forms/views/tabs/form-appearance.php:5
+#, php-format
+msgid "Inherit from %s theme"
+msgstr "%s temasından devral"
+
+#: includes/forms/views/tabs/form-appearance.php:6
+msgid "Basic"
+msgstr "Temel"
+
+#: includes/forms/views/tabs/form-appearance.php:7
+msgid "Form Themes"
+msgstr "Form Temaları"
+
+#: includes/forms/views/tabs/form-appearance.php:8
+msgid "Light Theme"
+msgstr "Açık Tema"
+
+#: includes/forms/views/tabs/form-appearance.php:9
+msgid "Dark Theme"
+msgstr "Koyu Tema"
+
+#: includes/forms/views/tabs/form-appearance.php:10
+msgid "Red Theme"
+msgstr "Kırmızı Tema"
+
+#: includes/forms/views/tabs/form-appearance.php:11
+msgid "Green Theme"
+msgstr "Yeşil Tema"
+
+#: includes/forms/views/tabs/form-appearance.php:12
+msgid "Blue Theme"
+msgstr "Mavi Tema"
+
+#: includes/forms/views/tabs/form-appearance.php:25
+msgid "Form Appearance"
+msgstr "Görünüm"
+
+#: includes/forms/views/tabs/form-appearance.php:29
+msgid "Form Style"
+msgstr "Form Stili"
+
+#: includes/forms/views/tabs/form-appearance.php:50
+msgid ""
+"If you want to load some default CSS styles, select \"basic formatting styles"
+"\" or choose one of the color themes"
+msgstr ""
+"Eğer varsayılan CSS stilleri yüklemek istiyorsanız, \"temel biçimlendirme "
+"stilleri\" seçeneğini veya renk temalarından birini seçin"
+
+#: includes/forms/views/tabs/form-fields.php:6
+msgid "Form variables"
+msgstr "Form değişkenleri"
+
+#: includes/forms/views/tabs/form-fields.php:16
+msgid "Form code"
+msgstr "Form kodu"
+
+#: includes/forms/views/tabs/form-fields.php:18
+msgid "Enter the HTML code for your form fields.."
+msgstr "Form alanlarınız için HTML kodu yazın.."
+
+#: includes/forms/views/tabs/form-fields.php:22
+msgid "Form preview"
+msgstr "Form Önizleme"
+
+#: includes/forms/views/tabs/form-fields.php:23
+msgid ""
+"The form may look slightly different than this when shown in a post, page or "
+"widget area."
+msgstr ""
+
+#: includes/forms/views/tabs/form-messages.php:6
+msgid "Form Messages"
+msgstr "Form Uyarıları"
+
+#: includes/forms/views/tabs/form-messages.php:7
+msgid "Customize the response messages for this form."
+msgstr ""
+"Formunuzda belirli işlemlerin sonucunda gösterilecek mesajları belirleyin."
+
+#: includes/forms/views/tabs/form-messages.php:17
+msgid "Successfully subscribed"
+msgstr "Başarıyla abone olundu"
+
+#: includes/forms/views/tabs/form-messages.php:20
+msgid ""
+"The text that shows when an email address is successfully subscribed to the "
+"selected list(s)."
+msgstr ""
+"Bir e-posta adresi, seçilen listeye veya listelere başarılı bir şekilde "
+"abone olduğunda gösterilecek olan metin."
+
+#: includes/forms/views/tabs/form-messages.php:24
+msgid "Invalid email address"
+msgstr "Geçersiz eposta adresi"
+
+#: includes/forms/views/tabs/form-messages.php:27
+msgid "The text that shows when an invalid email address is given."
+msgstr "Geçersiz bir email adresi girildiğinde gösterilecek metin."
+
+#: includes/forms/views/tabs/form-messages.php:31
+msgid "Required field missing"
+msgstr "Gerekli bir alan boş bırakıldı"
+
+#: includes/forms/views/tabs/form-messages.php:34
+msgid ""
+"The text that shows when a required field for the selected list(s) is "
+"missing."
+msgstr ""
+"Seçili liste(ler) aboneliklerinde eksik ve zorunlu olan alanlar "
+"girilmediğinde gösterilecek metin."
+
+#: includes/forms/views/tabs/form-messages.php:38
+msgid "General error"
+msgstr "Genel hata"
+
+#: includes/forms/views/tabs/form-messages.php:41
+msgid "The text that shows when a general error occured."
+msgstr "Genel bir hata oluştuğunda görüntülenen yazı."
+
+#: includes/forms/views/tabs/form-settings.php:2
+msgid "Arrange the settings regarding the form."
+msgstr "Formunuzun işleyişi ile ilgili ayarları girin."
+
+#: includes/forms/views/tabs/form-settings.php:14
+msgid "Choose Opt-in Method:"
+msgstr "Kayıt Seçeneğini Seçin:"
+
+#: includes/forms/views/tabs/form-settings.php:18
+msgid "Double Opt-in"
+msgstr "Çift Onaylı"
+
+#: includes/forms/views/tabs/form-settings.php:21
+msgid "Are you sure you want to disable double opt-in?"
+msgstr "Kullanıcı onaylı doğrulamayı iptal etmek istediğinizden emin misiniz?"
+
+#: includes/forms/views/tabs/form-settings.php:22
+msgid "Single Opt-in"
+msgstr "Tek Onaylı"
+
+#: includes/forms/views/tabs/form-settings.php:24
+msgid ""
+"With double opt-in, the confirmation of the submitted information is asked "
+"via email or SMS."
+msgstr ""
+"Çift onaylı kayıt (double opt-in) seçeneğinde formu dolduran kişiden eposta "
+"veya sms yoluyla teyit istenir."
+
+#: includes/forms/views/tabs/form-settings.php:34
+msgid "Hide Form After Sign Up?"
+msgstr "Başarılı bir abonelik işleminden sonra form kapatılsın mı?"
+
+#: includes/forms/views/tabs/form-settings.php:45
+msgid "Select \"yes\" to hide the form fields after a successful sign-up."
+msgstr ""
+"Başarılı bir kayıt işleminden sonra formun kapatılması için \"evet\"i seçin."
+
+#: includes/forms/views/tabs/form-settings.php:51
+msgid "Select Form Language"
+msgstr "Formun dilini seçin"
+
+#: includes/forms/views/tabs/form-settings.php:55
+msgid "--select--"
+msgstr "--seçiniz--"
+
+#: includes/forms/views/tabs/form-settings.php:56
+msgid "Turkish"
+msgstr "Türkçe"
+
+#: includes/forms/views/tabs/form-settings.php:57
+msgid "English"
+msgstr "İngilizce"
+
+#: includes/forms/views/tabs/form-settings.php:60
+msgid "In what language visitors will see the form."
+msgstr "Formu ziyaretçiler hangi dilde görecek."
+
+#: includes/forms/views/tabs/form-settings.php:66
+msgid "Redirect to a selected URL after submission"
+msgstr "Başarılı kayıtlardan sonra bir URL'ye yönlendir"
+
+#: includes/forms/views/tabs/form-settings.php:68
+#: includes/forms/views/tabs/form-settings.php:78
+#, php-format
+msgid "Example: %s"
+msgstr "Örnek: %s"
+
+#: includes/forms/views/tabs/form-settings.php:70
+#: includes/forms/views/tabs/form-settings.php:83
+msgid ""
+"Leave blank if you do not want users to be redirected. Otherwise, enter the "
+"full URL including <code>https://</code> for the redirect."
+msgstr ""
+"Yönlendirme olmaması için boş bırakın. Aksi takdirde http:// kısmını da "
+"dahil ederek tam URL bağlantısını girin."
+
+#: includes/forms/views/tabs/form-settings.php:76
+msgid "Redirect to a selected URL after double opt-in email confirmation."
+msgstr "Double Opt-in Epostası onayı sonrası bir URL'ye yönlendir."
+
+#: includes/forms/views/tabs/form-settings.php:80
+msgid ""
+"Visitor will be redirected to this site after clicking the confirm button on "
+"the double opt-in email."
+msgstr ""
+"Double Opt-in Epostasındaki onaylama butonu tıklandığında ziyaretçinin "
+"yönleneceği sayfadır."
+
+#: includes/forms/views/tabs/form-settings.php:99
+#, php-format
+msgid "No group found, <a href=\"%s\">are you connected</a>?"
+msgstr "Hiç grup bulunamadı, <a href=\"%s\">Bağlı olduğunuze emin misiniz</a>?"
+
+#: includes/forms/views/tabs/form-settings.php:118
+msgid ""
+"Users who sign up via this form will be added to the group selected above."
+msgstr ""
+"Form doldurulduktan sonra kayıtların İletişim Makinesi üzerinde hangi "
+"grubunuza aktarılacağını seçin."
+
+#: includes/forms/views/tabs/form-settings.php:127
+msgid "Associated İYS Panel Brand:"
+msgstr "İlgili İYS Panel Markası:"
+
+#: includes/forms/views/tabs/form-settings.php:132
+#, php-format
+msgid "No brands found, <a href=\"%s\">are you connected</a>?"
+msgstr ""
+"Hiç marka bulunamadı, <a href=\"%s\">bağlı olduğunuze emin misiniz</a>?"
+
+#: includes/forms/views/tabs/form-settings.php:151
+msgid ""
+"Choose to which of your brands on İYS Panel will the communication consents "
+"of the filled out forms will be transferred."
+msgstr ""
+"Form doldurulduktan sonra kayıtların iletişim izin verilerinin İYS Panel'e "
+"hangi markanız için aktarılacağını belirleyin."
+
+#: includes/forms/views/tabs/form-settings.php:163
+msgid ""
+"If there is only email address field on the form then double opt-in is done "
+"via email."
+msgstr ""
+"Eğer formunuzda iletişim bilgisi alanı olarak sadece eposta adresi varsa "
+"çift onaylama (double opt-in) eposta kanalından yapılır."
+
+#: includes/forms/views/tabs/form-settings.php:164
+msgid ""
+"If there is both email address and GSM fields on the form then double opt-in "
+"is done via email."
+msgstr ""
+"Eğer formunuzda iletişim bilgisi alanı olarak eposta adresi ve GSM numarası "
+"varsa çift onaylama (double opt-in) yine eposta kanalından yapılır."
+
+#: includes/forms/views/tabs/form-settings.php:165
+msgid ""
+"If there is only GSM field on the form then double opt-in is done via SMS "
+"(text message)."
+msgstr ""
+"Eğer formunuzda iletişim bilgisi alanı olarak sadece GSM numarası varsa çift "
+"onaylama (double opt-in) SMS\n"
+"kanalından yapılır."
+
+#: includes/forms/views/tabs/form-settings.php:166
+msgid ""
+"Given the double opt-in will be done via SMS, you should select the SMS "
+"sender name that is registered on İletişim Makinesi to enable the delivery "
+"of double opt-in messages. The SMS sender names are listed according to the "
+"brand you have chosen previously."
+msgstr ""
+"Bu durumda İletişim Makinesi'nde tanımlı SMS Gönderici İsminizi seçmeniz "
+"gerekmektedir. SMS Gönderici İsimleri\n"
+"listeniz formu ilişkilendirdiğiniz markanıza bağlı olarak gelmektedir."
+
+#: includes/forms/views/tabs/form-settings.php:168
+msgid ""
+"Given the double opt-in will be done via Email or you have selected the "
+"single opt-in, then you must choose \"SMS will not be used.\" option from "
+"the drop-down list."
+msgstr ""
+"Eğer çift onaylama (double opt-in) eposta kanalıyla olacaksa veya çift "
+"onaylama yapmıyorsanız \"SMS ile\n"
+"yapılmayacak\" girişini seçmeniz gerekmektedir."
+
+#: includes/forms/views/tabs/form-settings.php:174
+msgid "Choose SMS sender name:"
+msgstr "SMS Gönderici Seçimi:"
+
+#: includes/forms/views/tabs/form-settings.php:198
+msgid "SMS will not be used"
+msgstr "SMS ile yapılmayacak"
+
+#: includes/views/general-settings.php:22
+msgid ""
+"Connect the plug-in with your İYS Panel and İletişim Makinesi accounts to "
+"get your data from the forms transferred to these systems."
+msgstr ""
+"Eklentiyi İletişim Makinesi ve İYS Panel hesaplarına bağlayın. "
+"Formlarınızdan\n"
+"gelen veriler otomatik olarak bu yazılımlardaki hesaplarınıza işlensin."
+
+#: includes/views/general-settings.php:63
+msgid "Your message has been received. We will respond soon!"
+msgstr "Mesajınız alındı. En kısa sürede size dönüş yapılacaktır!"
+
+#: includes/views/general-settings.php:64
+msgid "Informations:"
+msgstr "Bilgiler:"
+
+#: includes/views/general-settings.php:75
+#: includes/views/general-settings.php:80
+msgid "There is an error. Your informations can not be sent!"
+msgstr "Bir hata oluştu. Bilgileriniz gönderilemedi!"
+
+#: includes/views/general-settings.php:86
+msgid "You have to make the payment to use \"İYS Panel WP Form\" plug-in."
+msgstr ""
+"\"İYS Panel WP Form\" eklentisini kullanmak için satın alman gerekmektedir."
+
+#: includes/views/general-settings.php:87
+msgid ""
+"You can start enjoying the benefits of using \"İYS Panel WP Form\" plug-in "
+"for a reasonable annual payment."
+msgstr ""
+"Siz de çok uygun bir yıllık ödeme ile \"İYS Panel WP Form\" eklentisini "
+"kullanmaya başla."
+
+#: includes/views/general-settings.php:88
+msgid "With \"İYS Panel WP Form\" plug-in you can;"
+msgstr "İYS Panel WP Form eklentisi sayesinde:"
+
+#: includes/views/general-settings.php:90
+msgid "Easily create forms for your website."
+msgstr "Websiten için sınırsız formu kolaylıkla tasarlayabileceksin."
+
+#: includes/views/general-settings.php:91
+msgid "Use double opt-in to confirm the information gathered via forms."
+msgstr ""
+"Dilersen çift faktör doğrulama (double opt-in) ile sana ulaşan verinin "
+"teyidini alabileceksin."
+
+#: includes/views/general-settings.php:92
+msgid ""
+"Transfer the information gathered in the forms such as email address and gsm "
+"number automatically to a designated group in İletişim Makinesi."
+msgstr ""
+"Form ile aldığın eposta ve GSM gibi verileri İletişim Makinesi altında "
+"istediğin gruplara kayıt olarak ekleyebileceksin. İstersen sana "
+"sağlayacağımız webhook ile kendi veri tabanına da kaydedebilirsin."
+
+#: includes/views/general-settings.php:93
+msgid ""
+"Get communication permission from your visitors via forms and transfer that "
+"information to the national consent database via İYS Panel APIs."
+msgstr ""
+"İlgili izinler seçtiğin markan için otomatik olarak İleti yönetim sistemine "
+"de onaylı olarak aktarılır."
+
+#: includes/views/general-settings.php:94
+msgid ""
+"You get rid of the long development process and expense in order to "
+"integrate your forms with Commercial İYS (Electronic Message Management "
+"System)"
+msgstr ""
+"Formlarının İYS (İleti Yönetim Sistemi) entegrasyonunu gerçekleştirmek için "
+"uzun süren geliştirme süreç ve masrafından kurtulursun."
+
+#: includes/views/general-settings.php:96
+msgid "I've made my purchase"
+msgstr "Ürünü satın aldım"
+
+#: includes/views/general-settings.php:97
+msgid "Purchase"
+msgstr "Satın Al"
+
+#: includes/views/general-settings.php:106
+msgid "Name Surname"
+msgstr "Adın Soyadın"
+
+#: includes/views/general-settings.php:111
+msgid "Email Address"
+msgstr "Eposta Adresi"
+
+#: includes/views/general-settings.php:121
+msgid "Message"
+msgstr "Mesaj"
+
+#: includes/views/general-settings.php:126
+msgid "Call Me!"
+msgstr "Ara Beni!"
+
+#: includes/views/general-settings.php:140
+msgid "Connect via API Key"
+msgstr "API Anahtarı ile Bağlantı"
+
+#: includes/views/general-settings.php:156
+msgid "Status"
+msgstr "Durum"
+
+#: includes/views/general-settings.php:162
+msgid "Connected"
+msgstr "BAĞLANDI"
+
+#: includes/views/general-settings.php:166
+msgid "Connection Failed"
+msgstr "Bağlantı Başarısız"
+
+#: includes/views/general-settings.php:167
+#: includes/views/general-settings.php:172
+msgid ""
+"A problem had occurred with your connection. Get in touch with our tech "
+"support. 0850 483 04 44"
+msgstr ""
+"API anahtarınız size ulaşmadıysa veya farklı bir sorun yaşıyorsanız, teknik "
+"destek hattımız ile iletişime geçin. 0850 483 04 44"
+
+#: includes/views/general-settings.php:171
+msgid "Connection Cancelled"
+msgstr "BAĞLANTI KESİLDİ"
+
+#: includes/views/general-settings.php:176
+msgid "Not Connected"
+msgstr "Bağlı Değil"
+
+#: includes/views/general-settings.php:184
+msgid "API Key"
+msgstr "API Anahtarım"
+
+#: includes/views/general-settings.php:186
+msgid "Your İYS Panel API key"
+msgstr "İYS Panel API Anahtarız"
+
+#: includes/views/general-settings.php:188
+msgid ""
+"If you did not receive your API Key or having another problem with "
+"theactivation, please get in touch with our tech support. 0850 483 0444"
+msgstr ""
+"API anahtarınız size ulaşmadıysa veya farklı bir sorun yaşıyorsanız, teknik "
+"destek hattımız ile iletişime geçin. 0850 483 04 44"
+
+#: includes/views/general-settings.php:208
+msgid "Cancel Connection"
+msgstr "Bağlantıyı İptal Et"
+
+#: includes/views/other-settings.php:14
+msgid "Miscellaneous settings"
+msgstr "Çeşitli ayarlar"
+
+#: includes/views/other-settings.php:17
+msgid "Usage Tracking"
+msgstr "Kullanım izlemesi"
+
+#: includes/views/other-settings.php:29
+msgid ""
+"Allow us to anonymously track how this plugin is used to help us make it "
+"better fit your needs."
+msgstr ""
+
+#: includes/views/other-settings.php:31
+msgid "This is what we track."
+msgstr ""
+
+#: includes/views/other-settings.php:37
+msgid "Logging"
+msgstr ""
+
+#: includes/views/other-settings.php:40
+msgid "Errors & warnings only"
+msgstr ""
+
+#: includes/views/other-settings.php:41
+msgid "Everything"
+msgstr ""
+
+#: includes/views/other-settings.php:44
+#, php-format
+msgid ""
+"Determines what events should be written to <a href=\"%s\">the debug log</a> "
+"(see below)."
+msgstr ""
+
+#: includes/views/other-settings.php:60 includes/views/other-settings.php:70
+msgid "Other Settings"
+msgstr ""
+
+#: includes/views/other-settings.php:99
+msgid "Debug Log"
+msgstr ""
+
+#: includes/views/other-settings.php:99
+msgid "Filter.."
+msgstr ""
+
+#: includes/views/other-settings.php:104
+msgid "Log file is not writable."
+msgstr ""
+
+#: includes/views/other-settings.php:105
+#, php-format
+msgid ""
+"Please ensure %1$s has the proper <a href=\"%2$s\">file permissions</a>."
+msgstr ""
+
+#: includes/views/other-settings.php:126
+msgid "Nothing here. Which means there are no errors!"
+msgstr ""
+
+#: includes/views/other-settings.php:136
+msgid "Empty Log"
+msgstr ""
+
+#: includes/views/other-settings.php:144
+msgid "Right now, the plugin is configured to only log errors and warnings."
+msgstr ""
+
+#: includes/views/parts/lists-overview.php:10
+msgid ""
+"If you have added new brands to IYS Panel, new groups and originators to "
+"İletişim Makinesi, you can pull these items that you have just added to the "
+"IYS Panel WP Form by clicking this button. So you can associate your forms "
+"with these newly added brands, groups and sender names."
+msgstr ""
+"İYS Panel markaları, İletişim Makinesi grupları ve gönderici isimlerine "
+"yenilerini eklediyseniz, bu butona basarak İYS Panel WP Form’a yeni "
+"eklediğiniz bu öğeleri çekebilirsiniz. Böylece formlarınızı bu yeni "
+"eklediğiniz marka, grup ve gönderici isimleriyle ilişkilendirebilirsiniz."
+
+#: includes/views/parts/lists-overview.php:14
+msgid "Create and manage forms for your website."
+msgstr "İhtiyaçlarınıza yönelik formları oluşturup, yönetin."
+
+#: includes/views/parts/lists-overview.php:27
+msgid "No forms were found."
+msgstr "Kayıtlı form bulunamadı."
+
+#: includes/views/parts/lists-overview.php:33
+msgid "ID"
+msgstr "ID"
+
+#: includes/views/parts/lists-overview.php:34
+msgid "Form Name"
+msgstr "Form Adı"
+
+#: includes/views/parts/lists-overview.php:35
+msgid "Description"
+msgstr "Açıklama"
+
+#: includes/views/parts/lists-overview.php:36
+msgid "İletişim Makinesi Group"
+msgstr "İletişim Makinesi Grup"
+
+#: includes/views/parts/lists-overview.php:37
+msgid "İYS Panel Brand"
+msgstr "İYS Panel Marka"
+
+#: includes/views/parts/lists-overview.php:38
+msgid "IM ID"
+msgstr "IM ID"
+
+#~ msgid "Documentation"
+#~ msgstr "Belgelendirme"
+
+#~ msgid "No originators found, <a href=\"%s\">are you connected</a>?"
+#~ msgstr ""
+#~ "Hiç başlık bulunamadı, <a href=\"%s\">bağlı olduğunuze emin misiniz</a>?"
+
+#~ msgid "Already subscribed"
+#~ msgstr "Zaten abone"
+
+#~ msgid ""
+#~ "The text that shows when the given email is already subscribed to the "
+#~ "selected list(s)."
+#~ msgstr ""
+#~ "Seçili liste(ler) içerisinde varolan email adresi için gösterilecek metin."
+
+#~ msgid "Unsubscribed"
+#~ msgstr "Abonelik iptal edildi"
+
+#~ msgid ""
+#~ "When using the unsubscribe method, this is the text that shows when the "
+#~ "given email address is successfully unsubscribed from the selected "
+#~ "list(s)."
+#~ msgstr ""
+#~ "Abonelikten çıkma methodu kullanıldığında seçili liste(ler) içerisindeki "
+#~ "email abonelikten başarıyla ayrıldığında gösterilecek metin."
+
+#~ msgid "Not subscribed"
+#~ msgstr "Abone olunmadı"
+
+#~ msgid ""
+#~ "When using the unsubscribe method, this is the text that shows when the "
+#~ "given email address is not on the selected list(s)."
+#~ msgstr ""
+#~ "Abonelikten çıkma methodu kullanıldığında seçili liste(ler) içerisinde "
+#~ "yer almayan email adresi için gösterilecek olan metin."
+
+#~ msgid "Renew Groups"
+#~ msgstr "Grupları Güncelle"
+
+#~ msgid "Create a New Form"
+#~ msgstr "Yeni Bir Form Oluştur"
+
+#~ msgid "Associated İletişim Makinesi Group."
+#~ msgstr "İlgili İletişim Makinesi Grubu."
+
+#~ msgid "Renew Group lists"
+#~ msgstr "Grupları Güncelle"

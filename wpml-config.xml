@@ -1,0 +1,20 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">im4wp-form</custom-type>
+	</custom-types>
+	<custom-fields>
+		<custom-field action="copy">_im4wp_settings</custom-field>
+		<custom-field action="translate">text_subscribed</custom-field>
+		<custom-field action="translate">text_error</custom-field>
+		<custom-field action="translate">text_invalid_email</custom-field>
+		<custom-field action="translate">text_already_subscribed</custom-field>
+		<custom-field action="translate">text_required_field_missing</custom-field>
+		<custom-field action="translate">text_unsubscribed</custom-field>
+		<custom-field action="translate">text_not_subscribed</custom-field>
+		<custom-field action="translate">text_subscribed</custom-field>
+	</custom-fields>
+	<admin-texts>
+	</admin-texts>
+</wpml-config>
+
+
